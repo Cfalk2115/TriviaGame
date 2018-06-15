@@ -1,0 +1,20 @@
+.wrapper {
+    display: grid;
+    justify-content: center;
+}
+
+.jumbotron {
+    font-weight: 900;
+    margin-top: 1px;
+    background-image: url("../images/star.jpg");
+    background-size: cover;
+    
+}
+.startGame {
+    display: flex;
+    justify-content: center;
+}
+
+.lead {
+    font-size: 150%;
+}
